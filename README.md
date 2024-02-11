@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm nargess moradi</h1>
 <h3 align="center">A passionate front_end developer from IRAN</h3>
+<img align="right" alt="girl width=300 src="https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif"
 
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nmoradi1381&label=Profile%20views&color=0e75b6&style=flat" alt="nmoradi1381" /> </p>
 
 - 🔭 I’m currently working on **learning AI**
