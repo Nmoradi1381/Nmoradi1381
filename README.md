@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm nargess moradi</h1>
 <h3 align="center">A passionate front_end developer from IRAN</h3>
-<img align="right" alt="girl width=300 src=https://www.expressjs.org/wp-content/uploads/2022/07/animation_640_l5m4gs21.gif"/>
+<img align="right" alt="girl width=300 src=https://rahuldkjain.github.io/gh-profile-readme-generator/"/>
 
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nmoradi1381&label=Profile%20views&color=0e75b6&style=flat" alt="nmoradi1381" /> </p>
