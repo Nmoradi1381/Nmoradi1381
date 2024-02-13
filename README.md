@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm nargess moradi</h1>
 <h3 align="center">A passionate front_end developer from IRAN</h3>
-<img align="right" alt="developer width=500 src="https://ross.on.ge/2021/06/03/1622719554.gif" />
+<img align="right" alt="developer width=500 src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" />
 
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nmoradi1381&label=Profile%20views&color=0e75b6&style=flat" alt="nmoradi1381" /> </p>
